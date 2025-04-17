@@ -954,7 +954,7 @@
     "about": "Lavender Bakery, celebrated for its French and European pastries, unveils its second location on San Pablo Ave, Berkeley. This expansion introduces organic breads and third wave coffee, blending traditional baking with contemporary tastes",
     "tags": ["Coffee", "Pasteries"],
     "address": "2101 San Pablo Ave Berkeley, CA 94702",
-    "phone": 3412199569,
+    "phone": "(341) 219-9569",
     "website": "https://www.lavenderbakeries.com/",
     "reviews": [
       "Cute little place with sidewalk seating and a great pastry selection. Coffee selection is the basics and took longer than expected to receive 2 lattes.\nLots of options in the pastry case and all looked very yummy. I got the apricot danish and it was very good, full of fruit. Decent variety of breakfast/toast options too.\nSidewalk seating is nice for people watching. Lots of activity on a Sunday morning.", 
@@ -982,4 +982,207 @@
     },
     "yelp": "https://www.yelp.com/biz/lavender-bread-and-cafe-berkeley"
   },
+  {
+    "name": "Masterpiece Coffee",
+    "images": {
+      "exterior": [
+        "/images/masterpiece/exterior1.jpg",
+        "/images/masterpiece/exterior2.jpg",
+        "/images/masterpiece/exterior3.jpg"
+      ],
+      "interior": [
+        "/images/masterpiece/interior1.jpg",
+        "/images/masterpiece/interior2.jpg",
+        "/images/masterpiece/interior3.jpg"
+      ]
+    },
+    "uniqueItems": [
+      "Kuro (Okinawa Black Sugar Oatmilk Latte)",
+      "Shiro (White Miso Oatmilk Latte)",
+      "Hong (Gochugaru Chocolate Oatmilk Latte)"
+    ],
+    "about": "Masterpiece Coffee is a specialty coffee and matcha pop-up turned brick-and-mortar cafe located behind Min'na Boutique in Berkeley. Known for their creative, handcrafted drinks and curated coffee beans, Masterpiece offers a serene outdoor patio and a minimalist slow-bar coffee experience.",
+    "tags": ["Coffee", "Matcha", "Specialty Drinks", "Outdoor Seating"],
+    "address": "1714 San Pablo Ave, Berkeley, CA 94702",
+    "phone": null,
+    "website": "https://masterpiececoffee.us",
+    "reviews": [
+      "True to its name. Owner's extremely friendly, drinks are unique and delicious, and the interior is wonderful. Easily the most likeable coffee spot in the area.",
+      "24 hours after visiting Masterpiece Coffee and my fiancé is still talking about how delicious the Kuro was. Definitely busy in the mornings, but worth the wait for these unique drinks.",
+      "Hidden gem! Serene patio, super high quality drinks like Kuro and Shiro, and the owner makes all the specialty add-ons by hand. A must-visit spot in Berkeley!"
+    ],
+    "amenities": {
+      "bathroom": false,
+      "wifi": false,
+      "indoorSeating": true,
+      "outdoorSeating": true,
+      "wheelchairAccessible": null,
+      "outlets": false,
+      "creditCards": true
+    },
+    "priceRange": "$$",
+    "hours": {
+      "mon": "Closed",
+      "tue": "Closed",
+      "wed": "8:00am - 3:00pm",
+      "thu": "8:00am - 3:00pm",
+      "fri": "8:00am - 3:00pm",
+      "sat": "10:00am - 4:00pm",
+      "sun": "10:00am - 4:00pm"
+    },
+    "yelp": "https://www.yelp.com/biz/masterpiece-coffee-berkeley"
+  }, 
+  {
+    "name": "Jaffa Coffee Roasters",
+    "images": {
+      "exterior": [
+        "/images/jaffa/exterior1.jpg",
+        "/images/jaffa/exterior2.jpg",
+        "/images/jaffa/exterior3.jpg"
+      ],
+      "interior": [
+        "/images/jaffa/interior1.jpg",
+        "/images/jaffa/interior2.jpg",
+        "/images/jaffa/interior3.jpg"
+      ]
+    },
+    "uniqueItems": [
+      "Orange Jaffa Latte",
+      "Tatreezelnut Latte",
+      "Strawberry Sage Latte",
+      "Chocolate Rummanya"
+    ],
+    "about": "Jaffa Coffee Roasters is a Palestinian-owned specialty coffee shop in Berkeley known for its creative lattes infused with spices, fruits, and herbs. The bright, welcoming space is ideal for studying or catching up with friends, with unique drinks you can't find anywhere else.",
+    "tags": ["Coffee", "Specialty Drinks", "Palestinian Inspired", "Wifi"],
+    "address": "1701 University Ave, Berkeley, CA 94703",
+    "phone": null,
+    "website": "https://jaffacoffee.com",
+    "reviews": [
+      "The customer service is immaculate — probably the best I've ever experienced. Orange Jaffa Latte was divine and perfectly balanced.",
+      "Bright, clean, and peaceful interior. Loved the Tatreezelnut latte, although rosemary was a little strong. Overall, an amazing spot for coworking!",
+      "Unique lattes with Palestinian flavors. Loved the Chocolate Rummanya and Strawberry Sage Creek lattes — subtle, creative, and delicious."
+    ],
+    "amenities": {
+      "bathroom": true,
+      "wifi": true,
+      "indoorSeating": true,
+      "outdoorSeating": false,
+      "wheelchairAccessible": false,
+      "outlets": true,
+      "creditCards": true
+    },
+    "priceRange": "$$",
+    "hours": {
+      "mon": "Closed",
+      "tue": "7:00am - 4:00pm",
+      "wed": "7:00am - 4:00pm",
+      "thu": "7:00am - 4:00pm",
+      "fri": "7:00am - 4:00pm",
+      "sat": "7:00am - 4:00pm",
+      "sun": "7:00am - 4:00pm"
+    },
+    "yelp": "https://www.yelp.com/biz/jaffa-coffee-roasters-berkeley"
+  }, 
+  {
+    "name": "Belmo Cafe",
+    "images": {
+      "exterior": [
+        "/images/belmo/exterior1.jpg",
+        "/images/belmo/exterior2.jpg",
+        "/images/belmo/exterior3.jpg"
+      ],
+      "interior": [
+        "/images/belmo/interior1.jpg",
+        "/images/belmo/interior2.jpg",
+        "/images/belmo/interior3.jpg"
+      ]
+    },
+    "uniqueItems": [
+      "Chocolate Pistachio Baklava",
+      "Lamb Merguez Sandwich",
+      "Turkish Delight",
+      "Pistachio Mille Feuille"
+    ],
+    "about": "Belmo Cafe is a family-owned bakery and cafe offering a vibrant mix of French, Turkish, and Algerian pastries in West Berkeley. With a wide selection of sweets, sandwiches, and organic coffee, Belmo Cafe is a hidden gem perfect for a quick treat or a leisurely coffee break.",
+    "tags": ["Bakery", "Coffee", "Pastries", "Middle Eastern Inspired"],
+    "address": "1160 University Ave, Berkeley, CA 94702",
+    "phone": "(510) 901-9152",
+    "website": "https://belmocafe.com",
+    "reviews": [
+      "The best baklava I've ever had! Great service — the owner often offers samples and is extremely welcoming.",
+      "Huge variety of pastries and treats. Loved the pistachio croissant and lamb sausage sandwich. Fast service and great coffee too!",
+      "A true hidden gem. French-Algerian pastries, Turkish delight, and fantastic coffee. Super warm and friendly atmosphere."
+    ],
+    "amenities": {
+      "bathroom": true,
+      "wifi": false,
+      "indoorSeating": true,
+      "outdoorSeating": true,
+      "wheelchairAccessible": true,
+      "outlets": false,
+      "creditCards": true
+    },
+    "priceRange": "$$",
+    "hours": {
+      "mon": "7:30am - 10:00pm",
+      "tue": "7:30am - 10:00pm",
+      "wed": "7:30am - 10:00pm",
+      "thu": "7:30am - 10:00pm",
+      "fri": "7:30am - 11:00pm",
+      "sat": "7:30am - 12:00am",
+      "sun": "7:30am - 12:00am"
+    },
+    "yelp": "https://www.yelp.com/biz/belmo-cafe-berkeley"
+  }, 
+  {
+    "name": "Artís Coffee",
+    "images": {
+      "exterior": [
+        "/images/artis/exterior1.jpg",
+        "/images/artis/exterior2.jpg",
+        "/images/artis/exterior3.jpg"
+      ],
+      "interior": [
+        "/images/artis/interior1.jpg",
+        "/images/artis/interior2.jpg",
+        "/images/artis/interior3.jpg"
+      ]
+    },
+    "uniqueItems": [
+      "Honey Lavender Latte",
+      "Mole Latte",
+      "Mint Foam Cold Brew",
+      "Tahini Mole Mocha"
+    ],
+    "about": "Artís Coffee is a spacious, eco-friendly specialty cafe in Berkeley known for roasting their own beans on-site. Offering a variety of single-origin coffees and creative seasonal drinks, Artís is a welcoming spot for studying, catching up with friends, and experiencing unique handcrafted flavors.",
+    "tags": ["Coffee", "Specialty Drinks", "Eco-Friendly", "Study Friendly"],
+    "address": "1717B 4th St, Berkeley, CA 94710",
+    "phone": null,
+    "website": "https://artiscoffee.com",
+    "reviews": [
+      "Spacious, bright, and a fantastic place to study or hang out. Loved the Honey Lavender Latte — subtle and balanced.",
+      "The Mint Foam Cold Brew was unique and refreshing. Friendly staff and lots of space inside for working or meeting up with friends.",
+      "High-quality single-origin coffee with thoughtful seasonal drinks like Tahini Mole Mocha. Perfect vibe for Fourth Street wanderers!"
+    ],
+    "amenities": {
+      "bathroom": true,
+      "wifi": true,
+      "indoorSeating": true,
+      "outdoorSeating": true,
+      "wheelchairAccessible": true,
+      "outlets": true,
+      "creditCards": true
+    },
+    "priceRange": "$$",
+    "hours": {
+      "mon": "8:00am - 5:00pm",
+      "tue": "8:00am - 5:00pm",
+      "wed": "8:00am - 5:00pm",
+      "thu": "8:00am - 5:00pm",
+      "fri": "8:00am - 5:00pm",
+      "sat": "9:00am - 6:00pm",
+      "sun": "9:00am - 6:00pm"
+    },
+    "yelp": "https://www.yelp.com/biz/art%C3%ADs-coffee-berkeley-2"
+  }  
 ]
